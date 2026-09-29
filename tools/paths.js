@@ -4,7 +4,7 @@
 //
 //   song-production/
 //     tools/     <- these scripts
-//     assets/    <- soundfonts + fluidsynth (NOT in git; see scripts/fetch-assets.ps1)
+//     assets/    <- soundfonts + fluidsynth (NOT in git; see tools/fetch-assets.js)
 //     out/       <- everything generated (NOT in git)
 //
 const path = require('path');

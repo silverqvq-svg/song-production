@@ -19,15 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Third-party assets are NOT included in this repository and are fetched at their
-official sources by scripts/fetch-assets.ps1. They remain under their own
-licences:
-
-  MuseScore_General.sf3      MIT (portions public domain / CC0)
-                             (c) 2018-2021 S. Christian Collins
-  FluidSynth                 LGPL-2.1-or-later
-  Salamander Grand Piano     CC-BY 3.0 - attribution to Alexander Holm REQUIRED
-  POP909 dataset             see the dataset's own terms before use

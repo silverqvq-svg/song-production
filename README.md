@@ -100,6 +100,6 @@ SP_NOFX=chor|air       关掉合唱/空气感       SP_DRUMRATE=1.45     鼓的�
 
 代码 MIT（见 `LICENSE`）。`SKILL.md` 与 `docs/` 的文字建议同样以 CC-BY-4.0 释出。
 
-**第三方素材**：仓库不打包任何音源，全部由 `scripts/fetch-assets.ps1` 从官方源下载。
-其中 Salamander Grand Piano 是 **CC-BY，使用时必须署名 Alexander Holm**。
-详见 `SKILL.md` 第 10 节。
+**第三方素材**：仓库不打包任何音源，全部由 `tools/fetch-assets.js` 从官方源下载。
+各自的许可证与署名要求见 `THIRD-PARTY.md`。其中 Salamander Grand Piano 是
+**CC-BY，使用时必须署名 Alexander Holm**。

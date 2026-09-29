@@ -348,7 +348,7 @@ node tools/diff.js FULL.wav minus_A.wav minus_B.wav ...
 
 ## 10. 第三方素材与许可
 
-仓库**不打包**任何音源，`scripts/fetch-assets.ps1` 从官方源下载。
+仓库**不打包**任何音源，`tools/fetch-assets.js` 从官方源下载。
 
 | 素材 | 许可 | 出处 |
 |---|---|---|
